@@ -1,0 +1,24 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Dr Luca",
+    "points": 345,
+    "avatar": "https://i.pravatar.cc/100"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Admin logica test 1",
+      "description": "Lorem ipsum is simply dummy text"
+    },
+    {
+      "id": 2,
+      "title": "Admin logica test 2",
+      "description": "Standard dummy text"
+    }
+  ],
+  "leaderboard": [
+    { "id": 1, "name": "Giulia Verdini", "score": 2980 },
+    { "id": 2, "name": "Marco Rossi", "score": 2721 }
+  ]
+}
